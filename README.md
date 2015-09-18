@@ -6,7 +6,7 @@ This is prepared to be used with Webpack and written with ES6.
 
 You should have to use a transpiler like Babel.
 
-You can use it like this
+# Example
 
 	var NotificationCenter = require('react-notification-center');
 
