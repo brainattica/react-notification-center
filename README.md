@@ -1,5 +1,3 @@
-README.md
-
 #react-notification-center
 
 Notification center worked on top of react and inspired on Flux to dispatch events
