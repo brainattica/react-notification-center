@@ -4,4 +4,18 @@ Notification center worked on top of react and inspired on Flux to dispatch even
 
 This is prepared to be used with Webpack and written with ES6.
 
-You may have to use a transpiler like Babel.
+You should have to use a transpiler like Babel.
+
+You can use it like this
+
+	var NotificationCenter = require('react-notification-center');
+
+	class MyComponent extends React.Component {
+
+		render() {
+			<div>
+				<NotificationCenter />
+			</div>
+		}
+
+	}
